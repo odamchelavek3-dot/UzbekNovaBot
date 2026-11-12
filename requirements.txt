@@ -1,0 +1,4 @@
+requirements.txt
+python-telegram-bot
+google-genai
+python-dotenv
